@@ -1,0 +1,4 @@
+interface:
+  display_name: "JH Design"
+  short_description: "Context-aware Korean UI and reference-led design"
+  default_prompt: "Use $jh-design to understand this project's users and existing identity, apply relevant visual references, and verify a usable responsive result."

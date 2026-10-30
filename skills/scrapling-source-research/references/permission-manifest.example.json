@@ -1,0 +1,10 @@
+{
+  "version": 1,
+  "platform": "naver",
+  "domains": ["cafe.naver.com"],
+  "scope": "public_posts_only",
+  "basis": "written-platform-permission",
+  "evidence_reference": "approval-document-id-or-record-reference",
+  "confirmed_by_user_on": "2026-08-27",
+  "valid_until": "2027-12-31"
+}

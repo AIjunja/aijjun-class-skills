@@ -1,0 +1,5 @@
+interface:
+  display_name: "Scrapling Source Research"
+  short_description: "공개 웹 자료를 정책 게이트와 출처 팩으로 정리"
+  default_prompt: "공개 URL을 낮은 요청량으로 조사하고, 접근 상태와 정책 제한을 구분한 출처 팩을 만들어 주세요. 네이버 URL은 자동 수집 권한을 먼저 확인하세요."
+

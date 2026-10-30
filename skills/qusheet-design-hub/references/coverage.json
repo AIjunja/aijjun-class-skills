@@ -1,0 +1,78 @@
+{
+  "date": "2026-10-28",
+  "expected_records": 202,
+  "details_read": 202,
+  "category_index_pages_read": 92,
+  "homepage_read": true,
+  "total_public_pages_read": 295,
+  "unique_normalized_primary_urls": 201,
+  "duplicate_urls": {
+    "https://feathericons.com": [
+      "0ad4fcb2-04d1-405a-954c-7f79938e2e72",
+      "ae1077cc-453a-4039-9213-cc23c5d2b619"
+    ]
+  },
+  "source_intro_incomplete": [
+    "Landing Love",
+    "Palettte.app"
+  ],
+  "unrecognized_source_tags": {
+    "3b622791-f2e9-403e-bc2f-abc14aac854b": {
+      "resources": [
+        "코드"
+      ]
+    },
+    "f2529165-92f6-4826-8f04-dba2b63baecd": {
+      "fields": [
+        "리소스"
+      ]
+    }
+  },
+  "field_counts": {
+    "아이콘 디자인": 42,
+    "앱 UIUX": 57,
+    "웹 UIUX": 95,
+    "랜딩 페이지": 25,
+    "인터렉션 디자인": 22,
+    "브랜드 디자인": 24,
+    "로고 디자인": 10,
+    "프레젠테이션 디자인": 12,
+    "컨텐츠": 35,
+    "타이포그라피": 19,
+    "매거진 디자인": 13,
+    "인쇄 편집 디자인": 16,
+    "포트폴리오": 14,
+    "이메일 디자인": 4,
+    "패키지 디자인": 12,
+    "폰트 디자인": 5,
+    "플러그인 디자인": 6,
+    "모션 디자인": 7,
+    "환경 디자인": 3,
+    "커뮤니티": 5,
+    "그래픽 / 포스터 디자인": 13,
+    "온보딩 페이지": 10,
+    "뉴스레터 디자인": 3,
+    "게임 UIUX": 3,
+    "일러스트 디자인": 8,
+    "사진편집": 6,
+    "블로그 디자인": 4,
+    "유니버셜 디자인": 3
+  },
+  "skill_counts": {
+    "web-ui": 59,
+    "app-ux": 38,
+    "brand-design": 25,
+    "typography": 22,
+    "color-system": 51,
+    "graphic-editorial": 48,
+    "motion-interaction": 24,
+    "icons-illustration": 52,
+    "mockup-assets": 44,
+    "design-systems": 43
+  },
+  "unassigned_ids": [],
+  "external_sites_exhaustively_read": false,
+  "images_ocr_or_visual_reviewed": false,
+  "primary_url_current_licenses_verified": false,
+  "raw_source_expression_in_skills": false
+}

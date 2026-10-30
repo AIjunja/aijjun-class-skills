@@ -1,0 +1,4 @@
+interface:
+  display_name: "큐시트 · 앱 UX·온보딩·게임 UI"
+  short_description: "앱 UX·온보딩·게임 UI의 자료를 실제 결과물에 적용하는 디자인 스킬"
+  default_prompt: "$qusheet-app-ux를 사용해 현재 과제에 맞는 레퍼런스를 고르고 실제 결과물에 적용해줘."

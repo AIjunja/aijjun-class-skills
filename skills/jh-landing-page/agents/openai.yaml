@@ -1,0 +1,4 @@
+interface:
+  display_name: "JH Landing Page"
+  short_description: "실제 제안과 근거를 읽히는 카피, 목적 있는 모션과 작동하는 문의로 연결"
+  default_prompt: "$jh-landing-page로 이 제안의 대상과 실제 근거에 맞는 랜딩페이지를 만들고, 선택한 레퍼런스와 모션을 적용해 검수해줘."

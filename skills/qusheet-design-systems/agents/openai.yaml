@@ -1,0 +1,4 @@
+interface:
+  display_name: "큐시트 · 디자인 시스템·접근성·설계 점검"
+  short_description: "디자인 시스템·접근성·설계 점검의 자료를 실제 결과물에 적용하는 디자인 스킬"
+  default_prompt: "$qusheet-design-systems를 사용해 현재 과제에 맞는 레퍼런스를 고르고 실제 결과물에 적용해줘."
